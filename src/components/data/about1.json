@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Data Engineer",
+        "side": "A certified ",
+        "link_text": "Microsoft Azure Data Engineer Associate",
+        "link": "https://learn.microsoft.com/en-us/certifications/exams/dp-203",
+        "description": "I have a solid foundation in Cloud Computing and experience working with Big Data technologies",
+        "technologies": "AWS, Azure, GCP, Databricks, Hadoop"
+    },
+    {
+        "title": "Data Visualization",
+        "side": "",
+        "link_text": "UMN 2024 Data Viz Championship Winner",
+        "link": "https://idr.umn.edu/love-data-week-2024-data-viz-competition",
+        "description": "I love building interactive BI reports",
+        "technologies": "Tableau, PowerBI"
+    }
+]

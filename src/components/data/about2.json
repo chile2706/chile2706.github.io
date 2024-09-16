@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Data Analyzer",
+        "side": "",
+        "link_text": "Business Sales Analysis Project",
+        "link": "https://github.com/chile2706/8-week-sql/tree/main/case%20study%20%234%20-%20Data%20Bank",
+        "description": "Extracting valuable business patterns or information has always been my interest",
+        "technologies": "MySQL, R, Python (Numpy, Pandas)"
+    },
+    {
+        "title": "ML/ AI",
+        "side": "A member of ",
+        "link_text": "Minnesota NLP Group",
+        "link": "https://minnesotanlp.github.io/",
+        "description": "I am excited about the potential of AI, exploring unanswered questions and improving current AI systems",
+        "technologies": "LLM, PyTorch"
+    }
+]
