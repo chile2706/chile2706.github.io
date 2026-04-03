@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://chile2706.github.io//sitemap.xml
