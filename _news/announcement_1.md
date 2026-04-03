@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-12-15 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Honored to receive the [CRA Outstanding Undergraduate Researchers Honorable Mention](https://cse.umn.edu/cs/news/khanh-chi-le-receives-cra-outstanding-undergraduate-researcher-honorable-mention)!
