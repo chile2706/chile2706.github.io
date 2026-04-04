@@ -6,7 +6,7 @@ subtitle: <a href='#'>Incoming PhD Student in Computer Science at UMN</a>
 
 profile:
   align: right
-  image: chi_folwell.JPG
+  image: chi_folwell.jpg
   image_circular: true # crops the image to make it circular
   more_info: 
 
