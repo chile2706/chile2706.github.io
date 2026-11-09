@@ -17,8 +17,8 @@ social: true # includes social icons at the bottom of the page
 
 I'm an incoming Computer Science PhD student at the [University of Minnesota, Twin Cities](https://cse.umn.edu/cs), where I'll be working with Prof. [Dongyeop Kang](https://dykang.github.io/) at the [Minnesota NLP](https://minnesotanlp.github.io/) lab starting Fall 2026.
 
-My research focuses on understanding human workflows to build cognitively-aligned AI assistants. I'm currently interested in developing cognitive metrics that capture human goals and quantify subtasks within complex workflows.
+My interest is in cognitively-aligned personal AI assistant. I aim to identify the moments where AI agents should intervene in workflows and what kind of help they should provide, by investigating human cognitive processes in real time using fine-grained process data (keystrokes, revisions, decision points). 
 
 I'm completing my Bachelor's degree in Data Science at UMN, where I've been a research assistant at the Minnesota NLP lab since 2024. My undergraduate research was recognized with a [CRA Outstanding Undergraduate Researchers Honorable Mention](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/).
 
-Originally from Hanoi, Vietnam, I moved to the United States for college. Outside of research, I listen to K-pop to stay focused and unwind through dancing.
+Originally from Hanoi, Vietnam, I moved to the United States for college. Outside of research, I enjoy singing and dancing.
